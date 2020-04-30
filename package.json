@@ -14,7 +14,7 @@
     "core": "2.0.14",
     "core-js": "^3.1.4",
     "design": "0.1.0",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "material": "0.3.13",
     "popper.js": "1.15.0",
     "rxjs": "6.5.2",
